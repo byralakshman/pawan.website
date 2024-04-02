@@ -1,0 +1,26 @@
+.myhero{
+    text-align: cente;
+    
+
+}
+.heading{
+    text-align: start;
+    color: #f70c2b;
+}
+.imge{
+    height: 50vh;
+}
+.para{
+    background-color: black;
+}
+.myimg{
+    height: 50vh;
+}
+.myclick{
+    text-align: center;
+    background-color: #f70c2b;
+}
+.mybutton{
+    text-align: center;
+    background-color: black;
+}
